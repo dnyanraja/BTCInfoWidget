@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Wp Bitcoin Widget
+ * Plugin Name: BTCInfoWidget
  * Plugin URI: http://webandseoguide.tk
  * Description: Get live details about visitor count, current online peoples etc
  * Version: 1.0.0
